@@ -1,5 +1,5 @@
 # Cloudflare Workers configuration (API-only Worker, not Cloudflare Pages)
-name = "bubblebrowser-backend"
+name = "bubblebrowserserver3"
 main = "./src/index.js"
 compatibility_date = "2026-04-26"
 
