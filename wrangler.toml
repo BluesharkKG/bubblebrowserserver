@@ -1,7 +1,7 @@
+# Cloudflare Workers configuration (API-only Worker, not Cloudflare Pages)
 name = "bubblebrowser-backend"
-main = "src/index.js"
-compatibility_date = "2026-04-25"
+main = "./src/index.js"
+compatibility_date = "2026-04-26"
 
-# Optional but useful during local development with `wrangler dev`
 [dev]
 port = 8787
