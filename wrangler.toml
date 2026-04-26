@@ -1,0 +1,7 @@
+name = "bubblebrowser-backend"
+main = "src/index.js"
+compatibility_date = "2026-04-25"
+
+# Optional but useful during local development with `wrangler dev`
+[dev]
+port = 8787
